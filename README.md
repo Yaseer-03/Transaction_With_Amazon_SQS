@@ -22,7 +22,6 @@ This project is a **Transaction Management System** developed using **Java**, **
 - **Tools**: IntelliJ IDEA
 - **Version Control**: Git, GitHub
 
-- 
 ## How It Works
 1. **Queue a Transaction**: A transaction request is sent to the **Amazon SQS** queue.
 2. **Listening to Queue**: The system continuously listens for new transaction requests from the SQS queue.
